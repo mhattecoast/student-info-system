@@ -1,0 +1,3 @@
+# Python Standard Library is predominantly used for minimal dependencies.
+# Requirements listed for extended testing/cloud compatibility.
+pytest>=7.4.0

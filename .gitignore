@@ -1,0 +1,17 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Logs and databases
+logs/*.log
+!logs/.gitkeep
+exports/
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
